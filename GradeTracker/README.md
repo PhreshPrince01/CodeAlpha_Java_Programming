@@ -47,7 +47,7 @@ GradeTracker/
 ## **Running the Application**
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/GradeTracker.git
+git clone https://github.com/PhreshPrince01/CodeAlpha_Java_Programming.git
  ```
 2. Navigate to the `build` directory:
 ```
@@ -108,5 +108,5 @@ This project is licensed under MIT Licemse.
 * Stack Overflow Community
 * CodSoft
  
-For more information, vist the [repository](https://github.com/yourusername/GradeTracker.git).
+For more information, vist the [repository](https://github.com/PhreshPrince01/CodeAlpha_Java_Programming.git).
  
