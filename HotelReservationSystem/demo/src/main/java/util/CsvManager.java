@@ -30,7 +30,7 @@ public class CsvManager {
                 rooms.add(room);
             }
         } catch (IOException e) {
-            System.out.println("Error loading rooms from csv file: " e.getMessage());;
+            System.out.println("Error loading rooms from csv file: "+ e.getMessage());;
         } 
         return  rooms;
     }
