@@ -106,7 +106,7 @@ This project is licensed under MIT Licemse.
 ## **Acknowledgements**
 * Java Documentation
 * Stack Overflow Community
-* CodSoft
+* CodeAlpha
  
 For more information, vist the [repository](https://github.com/PhreshPrince01/CodeAlpha_Java_Programming.git).
  
